@@ -6,7 +6,7 @@ var numRand = Math.floor( Math.random() * maxRand );
 //console.log(numRand);
 
 // Store images
-var img0 = '/img/forheader.jpg';
+var img0 = 'stand-alone-profolio/img/forheader.jpg';
 var img1 = '/img/forheader 2.jpg';
 var img2 = '/img/forheader 3.jpg';
 
