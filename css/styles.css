@@ -7,8 +7,17 @@ YOUR STYLES
 
 body {
     background-image: url("/img/backg.jpg");
+    
 }
 
+h1 {
+    font-family: 'Molle', cursive;
+    font-size: 3em;
+    text-align: center;
+    
+    
+}
+ 
 
 /* Header */
 header {
@@ -19,7 +28,7 @@ header {
     display: flex;
     justify-content: center;
   
-}
+}   
 
 
 /* Gallery Styling */
@@ -32,6 +41,8 @@ header {
 figure {
   background: white;
   display: flex;
+    font-family: 'Nothing You Could Do', cursive;
+    color: burlywood;
   flex-wrap: wrap;
   justify-content: center;
   padding: 1em;
