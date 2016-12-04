@@ -6,7 +6,11 @@ YOUR STYLES
 }
 
 body {
+<<<<<<< HEAD
     background: url("/img/backg.jpg");
+=======
+    background: url(/img/backg.jpg);
+>>>>>>> origin/gh-pages
     
 }
 
