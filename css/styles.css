@@ -11,13 +11,12 @@ body {
 }
 
 h1 {
+    color: burlywood;
     font-family: 'Molle', cursive;
     font-size: 3em;
     text-align: center;
-    
-    
 }
- 
+  
 
 /* Header */
 header {
@@ -46,6 +45,7 @@ figure {
   flex-wrap: wrap;
   justify-content: center;
   padding: 1em;
+    text-align: center;
   width: 30em;
 }
 
@@ -63,7 +63,17 @@ a {
 }
 
 
-
+footer {
+    color: burlywood;
+    background: white;
+    border: 5px double lightgray;
+    font-family: 'Molle', cursive;
+    margin: 30px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
 /********************
 MEDIA QUERIES
 *******************/
