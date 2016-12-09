@@ -6,21 +6,22 @@ YOUR STYLES
 }
 
 body {
-    background: url ("/stand-alone-profolio/img/backg.jpg")
+    background: url("/img/backg.jpg")
     
 }
 
 h1 {
     color: burlywood;
     font-family: 'Molle', cursive;
-    font-size: 3em;
+    font-size: 5em;
     text-align: center;
+    text-shadow: 0 5px #eee;
 }
   
 
 /* Header */
 header {
-    background: white;
+    background: rgba(255,255,255,0.9);
     border: 5px double lightgray;
     margin: 30px 50px 30px 50px;
     padding: 50px;
@@ -38,7 +39,7 @@ header {
 }
 
 figure {
-  background: white;
+  background: rgba(255,255,255,0.9);
   display: flex;
     font-family: 'Nothing You Could Do', cursive;
     color: burlywood;
@@ -51,10 +52,11 @@ figure {
 
 
 a {
+    padding:1em;
   
 }
 .lg-backdrop {
-    background: rgba(255,255,255,.8);
+    background: rgba(255,255,255,.7);
 }
 
 .lg-image {
